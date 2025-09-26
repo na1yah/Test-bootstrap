@@ -74,28 +74,28 @@
 
   <section id="home">
     <h1 class="text-center">Welcome to my website 🌸</h1>
-    <p class="text-center">Oh hi there! I'm Naiyah, and this is my little corner of the internet! 💕</p>
+    <p class="text-center">Oh hi there! I'm Naiyah, and this is my little corner of the internet! </p>
   </section>
 
   <section id="about">
     <h2>All About Me 💫</h2>
-    <p>My name is <strong>Naiyah</strong>, and I love music, art, and volunteering 🎀</p>
+    <p>My name is <strong>Naiyah</strong>, and I love music, art, and volunteering </p>
     <p>I'm a science student. I want to be a cardiologist.</p>
   </section>
 
   <section id="hobbies">
     <h2>Hobbies 🎨</h2>
-    <p>I enjoy painting, playing guitar, and exploring new music playlists 🎶</p>
+    <p>I enjoy painting, playing guitar, and exploring new music </p>
   </section>
 
   <section id="academic">
     <h2>Academic Interests 📚</h2>
-    <p>My passion is in the sciences, especially biology and chemistry. I hope to pursue cardiology one day ❤️</p>
+    <p>My passion is in the sciences, especially biology and chemistry. I hope to pursue cardiology one day </p>
   </section>
 
   <section id="projects">
     <h2>Projects ✨</h2>
-    <p>Here you’ll find my coding, volunteering, and creative projects 🌟</p>
+    <p>Here you’ll find my coding, volunteering, and creative projects </p>
   </section>
 
   <section id="contact">
